@@ -8,10 +8,6 @@ This project focuses on predicting the diameter of asteroids using various machi
 - [Preprocessing](#preprocessing)
 - [Models Used](#models-used)
 - [Evaluation Metrics](#evaluation-metrics)
-- [Results](#results)
-- [How to Run](#how-to-run)
-- [Dependencies](#dependencies)
-- [License](#license)
 
 ---
 
